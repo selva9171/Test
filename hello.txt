@@ -1,2 +1,1 @@
-this is my first file in git
-adding new line
+This is the content of the new file
